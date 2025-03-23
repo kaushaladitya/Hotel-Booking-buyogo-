@@ -53,8 +53,9 @@ This project processes hotel booking data, extracts insights, and enables retrie
 - models.py:- Contain the Schema of the data.
 
 ----------
-# Important for Database set:
+# **Important**:
 - Refer to file .env containing the host,ip, and password.
+- Inside app folder there is vector embedding folder provided with the drive link download the file from there before running the program
 -------
 # Referance photo:
 - refer to the photo of streamlit dashboard and swager api.
