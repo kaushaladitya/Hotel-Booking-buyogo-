@@ -55,7 +55,9 @@ This project processes hotel booking data, extracts insights, and enables retrie
 ----------
 # Important for Database set:
 - Refer to file .env containing the host,ip, and password.
-
+-------
+# Referance photo:
+- refer to the photo of streamlit dashboard and swager api.
 
 ## 👨‍💻 Contributors
 - **Aditya Kaushal**
